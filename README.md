@@ -25,3 +25,13 @@
 11. git push heroku master (Đẩy lên Heroku)
 
 12. git push (đẩy lên git)
+
+
+13. trong file Index.html --> Style Css
+
+.p {
+margin-top: 2px;
+margin-bottom: 2px;
+margin-right: 100px;
+margin-left: 100px;
+}
