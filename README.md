@@ -26,21 +26,21 @@
 
 12. git push (đẩy lên git)
 
-
 13. trong file app.css
 
-
 p {
-  margin-top: 10px;
-  margin-bottom: 10px;
-  margin-right: 150px;
-  margin-left: 150px;
-  }
+margin-top: 10px;
+margin-bottom: 10px;
+margin-right: 150px;
+margin-left: 150px;
+}
 
-  div.img
-  {
-    margin-top: 10px;
-    margin-bottom: 10px;
-    margin-right: 300px;
-    margin-left: 300px;
-  }
+div.img
+{
+margin-top: 10px;
+margin-bottom: 10px;
+margin-right: 300px;
+margin-left: 300px;
+}
+
+--a
